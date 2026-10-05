@@ -1,0 +1,1 @@
+# etsy-proxy-types
